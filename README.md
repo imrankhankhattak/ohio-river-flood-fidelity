@@ -21,5 +21,4 @@ All data is available on Kaggle: [ohio-river-data-v1](https://kaggle.com/dataset
 ## License
 MIT
 
-## Citation
-No
+
